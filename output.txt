@@ -1,0 +1,7 @@
+# This program adds two numbers
+Step 1: num1 Equal to 1.5
+Step 2: num2 Equal to 6.3
+# Add two numbers
+Step 3: sum Equal to num1 Plus num2
+# Display the sum
+Step 4: print('The sum of {0} AND {1} is {2}'.format(num1, num2, sum))
